@@ -1,6 +1,6 @@
 # Fake Python Jobs Scraper
 
-This project is a simple Python web scraper built with **Beautiful Soup**.  
+This project is a simple Python web scraper built with **Beautiful Soup** from https://roadmap.sh/projects/job-listings-scraper.  
 It collects job listings from the [Fake Python Jobs website](https://realpython.github.io/fake-jobs/) and extracts:
 
 - Job Title
